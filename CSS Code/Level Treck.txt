@@ -1,0 +1,21 @@
+* {cursor: url('https://img.itch.zone/aW1nLzE3Njk5OTM4LnBuZw==/original/gxGbbr.png'), auto;
+}
+
+.iframe_placeholder .button:hover,
+#game_drop .button:hover
+{
+	transform: scale(1.1, 1.1);
+}
+
+.screenshot
+{
+	border:2px #ffffff solid;
+}
+
+.screenshot:hover
+{
+transform: scale(1.05 , 1.05);
+box-shadow: 0px 0px 50px 2px #308c3c;
+z-index: 2;
+transition: all 200ms ease-in;
+}
