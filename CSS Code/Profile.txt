@@ -1,10 +1,16 @@
 .header{text-align:center;}
 .header{font-size:25px;}
-.user_links{text-align:center;}
+.user_links{opacity:0;}
 .game_text{text-align:center;}
 .game_title{text-align:center;}
 .game_genre{text-align:center;}
 .game_platform{text-align:center;}
+
+.header:hover{
+    text-shadow: 0px 0px 50px #6a00ff;
+    transition: all 200ms ease-in;
+    transform: scale(1.1);
+}
 
 .game_cell{
     background-color: #262626;
