@@ -1,9 +1,8 @@
-<!-- This code is saved in my Itch.io repository on GitHub. All comments are included there. Due to limitation of characters, comments are not listed here -->
-
-<!--
+<!-- COMMENTS ARE NOT SHOWN IN ITCH.IO EDITOR
 • <br> means invisible line break
 • <hr> means visible line break
 • alt="" means text that will show if the element/image/whatever doesn't load
+• Alignment typed in code (for example, <p align="center">) doesn't work. We manually need to select the object and align using the editor buttons
 -->
 
 <!-- Line break - Visible -->
